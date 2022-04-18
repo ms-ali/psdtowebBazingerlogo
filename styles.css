@@ -1,0 +1,67 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1480px;
+	 height: 4600px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1480px;
+	 height: 4600px;
+	 z-index:1;
+} 
+
+ #Base 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1482px;
+	 height: 102px;
+	 z-index:2;
+} 
+
+ #HOMEFeatures 
+{ 
+	 left: 634px; 
+	 top: 44px; 
+	 position: absolute; 
+	 width: 691px;
+	 height: 9px;
+	 z-index:3;
+} 
+
+ #bazinger 
+{ 
+	 left: 154px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 36px;
+	 z-index:4;
+} 
+
+ #signal 
+{ 
+	 left: 199px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 11px;
+	 z-index:5;
+} 
